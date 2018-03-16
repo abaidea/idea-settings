@@ -1,0 +1,233 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="windows-1252" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Development/devel/gradle/gradle_versions/v2016_01_r2" value="10173532792000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/trunk" value="10142732341000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2013" value="41933107568000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2014" value="10151926539000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2014_01_r6" value="10153068202000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2015" value="10145620296000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2015_01_r5" value="10147633504000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2016" value="10142746677000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2016_00_r1" value="53499480903000" />
+            <entry key="$USER_HOME$/Development/devel/gradle/v2016_01_r2" value="10173649424000" />
+            <entry key="$USER_HOME$/Development/devel/gradle_test" value="1465820073000" />
+            <entry key="$USER_HOME$/Development/devel/maven_devel/gradle-settings/abaidea" value="1470819617000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <profile version="1.0">
+          <option name="myName" value="Project Default" />
+          <option name="myLocal" value="true" />
+          <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
+            <option name="TOP_LEVEL_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="INNER_CLASS_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="METHOD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
+              </value>
+            </option>
+            <option name="FIELD_OPTIONS">
+              <value>
+                <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
+                <option name="REQUIRED_TAGS" value="" />
+              </value>
+            </option>
+            <option name="IGNORE_DEPRECATED" value="false" />
+            <option name="IGNORE_JAVADOC_PERIOD" value="true" />
+            <option name="IGNORE_DUPLICATED_THROWS" value="false" />
+            <option name="IGNORE_POINT_TO_ITSELF" value="false" />
+            <option name="myAdditionalJavadocTags" value="RunWith" />
+          </inspection_tool>
+          <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
+            <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
+            <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
+          </inspection_tool>
+          <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+            <option name="processCode" value="true" />
+            <option name="processLiterals" value="true" />
+            <option name="processComments" value="true" />
+          </inspection_tool>
+        </profile>
+        <version value="1.0" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="/usr/local/Cellar/maven/3.3.9/libexec" />
+            <option name="threads" value="4" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Internationalization issues</id>
+              </State>
+              <State>
+                <id>Internationalization issuesJava</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8 (_66)" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="http.proxy" />
+        <property name="project.structure.last.edited" value="Problems" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <predefined_log_file id="idea.log" enabled="true" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>groovy-2.4.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8 (_66)</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

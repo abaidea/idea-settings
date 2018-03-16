@@ -1,0 +1,24 @@
+<templateSet group="tests">
+  <template name="aseq" value="assertEquals($EXP$, $ACT$);" description="assertEquals" toReformat="false" toShortenFQNames="true">
+    <variable name="EXP" expression="variableOfType(&quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACT" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="asn" value="assertNull($END$);" description="assertNull" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ast" value="assertTrue($END$);" description="assertTrue" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="asf" value="assertFalse($END$);" description="assertFalse" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

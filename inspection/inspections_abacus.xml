@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Codestyle Abacus" />
+  <option name="myName" value="Inspections Abacus" />
   <inspection_tool class="AbacusStringIsEmpty" enabled="false" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AbstractClassNeverImplemented" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AbstractMethodOverridesAbstractMethod" enabled="true" level="WARNING" enabled_by_default="true" />

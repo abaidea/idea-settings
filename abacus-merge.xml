@@ -1,6 +1,0 @@
-<application>
-  <component name="AbaMerge">
-    <projectsDirectory>$USER_HOME$/Development/devel/maven</projectsDirectory>
-    <mappingDirectory>$USER_HOME$/Development/devel/maven_devel/mapping</mappingDirectory>
-  </component>
-</application>
